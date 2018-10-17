@@ -90,3 +90,8 @@ social:
   github: https://github.com/taegyunum
   weibo: 
   linkedin: 
+
+
+deploy:
+  type: git
+  repo: https://github.com/taegyunum/taegyunum.github.io.git
